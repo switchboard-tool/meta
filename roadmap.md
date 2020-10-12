@@ -1,0 +1,1 @@
+- cache javascript and css files that have unique hash in the file name
